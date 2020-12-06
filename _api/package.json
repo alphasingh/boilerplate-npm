@@ -7,8 +7,5 @@
     "beginner"
   ],
   "version": "0.0.1",
-  "dependencies": {
-    "moment": "^2.10.2"
-  },
   "license": "UNLICENSED"
 }
