@@ -6,6 +6,9 @@
     "node",
     "beginner"
   ],
-  "version": "0.1",
+  "version": "0.0.1",
+  "dependencies": {
+    "moment": "2.14.0"
+  },
   "license": "UNLICENSED"
 }
